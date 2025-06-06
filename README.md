@@ -42,8 +42,7 @@ seaborn
 ```
 
 ## ✨ Screenshot
-![Dashboard Example](screenshot.png) *(optional if you upload one)*
-
+![Dashboard Example](screenshot.png)
 ---
 
 ## 📬 Contact
